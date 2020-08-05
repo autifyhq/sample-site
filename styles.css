@@ -99,11 +99,11 @@ a {
 
 .title-marvel {
   font-weight: bold;
-  color: #8b4141;
+  color: #ff000056;
   letter-spacing: -7.7px;
   text-transform: uppercase;
   padding: 0 16px;
-  background: #002df5;
+  background: #ffffff33;
 }
 
 .title-studios {
@@ -126,9 +126,9 @@ code {
   text-align: left;
   font-size: 20px;
   width: 100%;
-  padding: 16px 24px;
+  padding: 12px 26px;
   background: rgba(47, 54, 52, 0.8);
-  border: 1px solid #7f797f;
+  border: 1px solid #ffffff00;
   border-radius: 1px;
   margin-bottom: 16px;
 }

@@ -4,7 +4,7 @@ body {
   position: relative;
   margin: 0;
   padding: 0;
-  font-family: "Inter UI", sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   text-align: center;
   color: white;
 }
@@ -99,22 +99,22 @@ a {
 
 .title-marvel {
   font-weight: bold;
-  color: #020103;
+  color: #8b4141;
   letter-spacing: -7.7px;
   text-transform: uppercase;
   padding: 0 16px;
-  background: #9b00f5;
+  background: #002df5;
 }
 
 .title-studios {
   position: relative;
   display: inline-block;
   font-weight: lighter;
-  color: #e5a8eb;
+  color: #cea6d1;
   letter-spacing: -3.5px;
   text-transform: uppercase;
   padding: 0 14px;
-  border-color: #9b00f5;
+  border-color: #1d002e;
   border-top: 8px solid;
   border-bottom: 8px solid;
   line-height: 1;
@@ -134,12 +134,12 @@ code {
 }
 
 .header {
-  margin-bottom: 104px;
+  margin-bottom: 84px;
 }
 
 .installation-instructions,
 .usage-instructions {
-  margin-top: 64px;
+  margin-top: 60px;
 }
 
 .footer {
